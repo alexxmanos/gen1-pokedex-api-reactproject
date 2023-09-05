@@ -1,5 +1,5 @@
 # Gen 1 Pokémon Pokedex API Web App
-Welcome to the Gen 1 Pokémon Pokedex API Web App project! This project is a web application built using React that allows you to explore and learn about the original 151 Pokémon from the first generation of Pokémon games. It features a Pokedex for browsing Pokémon and a detailed view for each Pokémon's information.
+Welcome to the Gen 1 Pokémon Pokedex API Web App project! This project is a web application built using React that allows you to explore and learn about the original 151 Pokémon from the first generation of Pokémon. It features a Pokedex for browsing Pokémon and a detailed view for each Pokémon's information.
 
 # Live Demo
 You can interact with the live version of this app: https://s8pyp6-3000.csb.app/
