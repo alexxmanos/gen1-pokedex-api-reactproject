@@ -17,16 +17,15 @@ To run this project locally, you can clone the repository from the GitHub repo o
 2.) Install Dependencies:
 If you are running this project locally, you should install the necessary dependencies. In CodeSandbox, dependencies are managed automatically.
 
-bash
-Copy code
-npm install
+`bash`
+`npm install`
 
 3.) Run the App:
 If you are using CodeSandbox, the app should start automatically. If you are running it locally:
 
-bash
-Copy code
-npm start
+`bash`
+`npm start`
+
 The app will be available at http://localhost:3000.
 
 # Components
