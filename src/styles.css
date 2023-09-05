@@ -1,0 +1,68 @@
+body {
+  background-color: #ffcb05;
+  background-image: linear-gradient(to bottom, #ffcb05, #f2b807);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  color: #333;
+  background-color: #ffcb05;
+  background-image: linear-gradient(to bottom, #ffcb05, #f2b807);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.PokedexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.PokedexList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.PokemonItem {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+  cursor: pointer;
+  width: 120px;
+}
+
+.PokemonDetails {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+.DetailsInfo {
+  margin-top: 10px;
+}
+
+.DetailsInfo p {
+  margin: 5px 0;
+}
