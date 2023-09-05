@@ -5,7 +5,7 @@ Welcome to the Gen 1 Pokémon Pokedex API Web App project! This project is a web
 You can interact with the live version of this app: https://s8pyp6-3000.csb.app/
 
 # Features
-View a list of all Generation 1 Pokémon.
+* View a list of all Generation 1 Pokémon.
 Click on a Pokémon to see detailed information, including its name, height, weight, and abilities.
 Beautifully styled user interface with responsive design.
 Data fetched from the PokeAPI.
