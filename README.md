@@ -3,6 +3,7 @@ Welcome to the Gen 1 Pokémon Pokedex API Web App project! This project is a web
 
 # Live Demo
 You can interact with the live version of this app: https://s8pyp6-3000.csb.app/
+The link to the CodeSandbox: https://codesandbox.io/s/generation1-pokedex-api-mjqs9d
 
 # Features
 View a list of all Generation 1 Pokémon.
