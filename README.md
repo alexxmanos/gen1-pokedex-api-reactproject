@@ -45,7 +45,4 @@ The project is styled using CSS and features a visually appealing design. You ca
 # Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
-# License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes. However, we kindly request that you provide proper attribution to the original project.
-
 Enjoy exploring the world of Generation 1 Pokémon with this web app!
